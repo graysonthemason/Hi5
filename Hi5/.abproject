@@ -1,0 +1,45 @@
+{
+  "ProjectName": "Hi5",
+  "ProjectGuid": "abeba23b-01ef-4d69-a683-b5f222349af4",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.Hi5",
+  "DisplayName": "Hi5",
+  "Author": "",
+  "Description": "Hi5",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "4.0.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{9b220a99-3fb2-496a-a6d0-98ccbd7919f5}",
+  "WP8ProductID": "{58ad5829-3bd3-49ad-afca-041f9862b7e3}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.Hi5",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
